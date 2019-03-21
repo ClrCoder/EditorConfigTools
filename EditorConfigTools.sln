@@ -12,7 +12,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		stylecop.json = stylecop.json
 	EndProjectSection
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClrSeed", "src\ClrSeed\ClrSeed.csproj", "{063B32E0-C402-4E97-B47C-46F6D5B087C2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EditorConfigTools", "src\EditorConfigTools\EditorConfigTools.csproj", "{063B32E0-C402-4E97-B47C-46F6D5B087C2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
